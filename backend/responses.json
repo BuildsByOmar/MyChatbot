@@ -1,0 +1,58 @@
+{
+    "greetings": {
+      "keywords": ["bonjour", "salut", "hello", "hey", "coucou", "bonsoir"],
+      "responses": [
+        "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
+        "Salut ! En quoi puis-je vous être utile ?",
+        "Bonjour ! Que puis-je faire pour vous ?",
+        "Hey ! Je suis là pour répondre à vos questions."
+      ]
+    },
+    "thanks": {
+      "keywords": ["merci", "thanks", "remercie", "remercier"],
+      "responses": [
+        "Je vous en prie ! Y a-t-il autre chose que je puisse faire pour vous ?",
+        "Pas de problème, c'est un plaisir de vous aider !",
+        "De rien ! N'hésitez pas si vous avez d'autres questions.",
+        "Tout le plaisir est pour moi !"
+      ]
+    },
+    "help": {
+      "keywords": ["aide", "help", "besoin", "aider"],
+      "responses": [
+        "Je suis là pour répondre à vos questions. Vous pouvez me demander des informations sur nos produits, nos services, ou nos horaires d'ouverture.",
+        "Comment puis-je vous aider aujourd'hui ? Je peux vous renseigner sur différents sujets.",
+        "Je suis votre assistant virtuel. N'hésitez pas à me poser des questions !"
+      ]
+    },
+    "hours": {
+      "keywords": ["heure", "horaire", "ouverture", "fermeture", "ouvert"],
+      "responses": [
+        "Nous sommes ouverts du lundi au vendredi de 9h à 18h.",
+        "Nos horaires d'ouverture sont de 9h à 18h en semaine.",
+        "Le magasin est ouvert de 9h à 18h du lundi au vendredi, et de 10h à 16h le samedi."
+      ]
+    },
+    "products": {
+      "keywords": ["produit", "article", "achat", "acheter", "vente"],
+      "responses": [
+        "Nous proposons une large gamme de produits. Y a-t-il quelque chose de spécifique que vous recherchez ?",
+        "Notre catalogue contient de nombreux articles. Pouvez-vous préciser ce qui vous intéresse ?",
+        "Nous avons plusieurs produits disponibles. Dites-moi ce que vous cherchez et je pourrai vous guider."
+      ]
+    },
+    "contact": {
+      "keywords": ["contact", "email", "téléphone", "appeler", "joindre"],
+      "responses": [
+        "Vous pouvez nous contacter par email à contact@exemple.com ou par téléphone au 01 23 45 67 89.",
+        "Notre service client est joignable au 01 23 45 67 89 ou par email à support@exemple.com.",
+        "Pour nous joindre, appelez le 01 23 45 67 89 ou envoyez un email à info@exemple.com."
+      ]
+    },
+    "fallback": [
+      "Je ne suis pas sûr de comprendre. Pourriez-vous reformuler votre question ?",
+      "Désolé, je n'ai pas saisi votre demande. Pouvez-vous être plus précis ?",
+      "Hmm, je ne comprends pas tout à fait. Pouvez-vous essayer avec d'autres mots ?",
+      "Je n'ai pas bien compris. Pourriez-vous expliciter votre demande ?"
+    ]
+  }
