@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { ChatProvider } from './context/ChatContext.jsx';
 import Header from './components/Header';
 import ChatContainer from './components/ChatContainer';
-import ChatInput from './components/ChatInput.jsx/index.js';
+import ChatInput from './components/ChatInput.jsx';
 
 const AppContainer = styled.div`
   display: flex;

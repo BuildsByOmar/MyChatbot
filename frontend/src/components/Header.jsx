@@ -37,7 +37,7 @@ const Header = () => {
   
   return (
     <HeaderContainer>
-      <Title>Assistant Virtuel</Title>
+      <Title>MyChatbot</Title>
       <ClearButton onClick={clearChat}>
         Nouvelle conversation
       </ClearButton>
